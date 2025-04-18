@@ -94,3 +94,20 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
   }
+  .primary-button:hover, .primary-button:focus{
+    background-color: #404BBF;
+  }
+ .stratagy-section {
+  color: #f4f4fd;
+ }
+ .card-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+ }
+ .title-list {
+  background-color: #FFFFFF;
+ }
