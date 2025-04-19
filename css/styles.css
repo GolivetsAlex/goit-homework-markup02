@@ -100,13 +100,13 @@ body {
  .stratagy-section {
   color: #f4f4fd;
  }
- .card-title {
+ .strategy-card-title {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
  }
- .card-text {
+ .strategy-card-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -114,4 +114,27 @@ body {
  }
  .title-list {
   background-color: #FFFFFF;
+ }
+ .our-team-section{
+  background-color: #F4F4FD;
+ }
+ .team-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform:capitalize;
+  color: #2e2f42
+ }
+ .team-list{
+  background-color: #FFFFFF;
+ }
+ .team-card-title{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+ }
+ .team-card-text{
+  line-height: 1.5;
+  letter-spacing:0.02em;
  }
